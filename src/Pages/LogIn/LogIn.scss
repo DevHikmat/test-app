@@ -1,0 +1,29 @@
+.LogIn {
+  min-height: 100vh;
+  background-image: url("../../../public/images/login_img.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  .form-content {
+    padding: 100px 0;
+    width: 300px;
+    h4 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: white !important;
+    }
+    form {
+      label {
+        color: white;
+      }
+      input {
+        margin-bottom: 20px;
+      }
+      button {
+        margin-bottom: 20px;
+      }
+      a {
+      }
+    }
+  }
+}
